@@ -1,5 +1,4 @@
-### Oi galera. 
-Sou Maynan, atualmente estou cursando Sistemas para Internet na Unicap, sou brasileira e desenvolvedora front-end👋
+### Oi galera. Sou Maynan, atualmente estou cursando Sistemas para Internet na Unicap, sou brasileira e desenvolvedora front-end👋
 
 <br>
 
